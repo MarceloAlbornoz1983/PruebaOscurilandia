@@ -1,10 +1,16 @@
 package firstLine;
+import java.math.*;
+import java.awt.*;
 
 public class Tablero {
 	
+	public static double getRandomNumber(){
+	    double x = Math.random();
+	    return x;
 	
 	}
 		
+}
 		/*
 		
 		private int matrizTablero[][] = new int [15][15]

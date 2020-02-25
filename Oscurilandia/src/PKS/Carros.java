@@ -1,12 +1,13 @@
 package PKS;
 
-import java.awt.Dimension;
+import java.awt.*;
 
 public class Carros {
 	
-	Dimension K= new Dimension(0,3);
-	Dimension C = new Dimension (2,0);
-	Dimension T = new Dimension (0,0);
+	
+	int kromi[]= new int [3];
+	int caguano[]= new int [2];
+	int trupalla[]=new int [1];	
 	
 
 }
