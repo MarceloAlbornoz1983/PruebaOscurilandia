@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>10</y>
+      <w>440</w>
+      <h>330</h>
+    </coordinates>
+    <panel_attributes>ejemplopoo::Celular
+--
+-marca: String
+-modelo: String
+-color: String
+-numero: int
+--
++Celular(String marca, String modelo, String color, int numero): ctor
++Celular(): ctor
++llamar(String nombre): void
++cortarLlamada(): void
++informarCaracteristicas(): void
++getMarca(): String
++setMarca(String marca): void
++getModelo(): String
++setModelo(String modelo): void
++getColor(): String
++setColor(String color): void
++main(String[] args): void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
