@@ -4,6 +4,8 @@ import java.awt.*;
 
 public class Tablero {
 	
+	
+	
 	public static double getRandomNumber(){
 	    double x = Math.random();
 	    return x;
